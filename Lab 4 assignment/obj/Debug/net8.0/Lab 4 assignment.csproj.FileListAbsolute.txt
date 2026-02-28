@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\bin\Debug\net8.0\Lab 4 assignment.exe
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\bin\Debug\net8.0\Lab 4 assignment.deps.json
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\bin\Debug\net8.0\Lab 4 assignment.runtimeconfig.json
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\bin\Debug\net8.0\Lab 4 assignment.dll
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\bin\Debug\net8.0\Lab 4 assignment.pdb
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\obj\Debug\net8.0\Lab 4 assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\obj\Debug\net8.0\Lab 4 assignment.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\obj\Debug\net8.0\Lab 4 assignment.AssemblyInfo.cs
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\obj\Debug\net8.0\Lab 4 assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\obj\Debug\net8.0\Lab 4 assignment.dll
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\obj\Debug\net8.0\refint\Lab 4 assignment.dll
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\obj\Debug\net8.0\Lab 4 assignment.pdb
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\obj\Debug\net8.0\Lab 4 assignment.genruntimeconfig.cache
+C:\Users\User\Desktop\C# programs\Lab 4 assignment\obj\Debug\net8.0\ref\Lab 4 assignment.dll
