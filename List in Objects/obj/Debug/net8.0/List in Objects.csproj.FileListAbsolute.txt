@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C# programs\List in Objects\bin\Debug\net8.0\List in Objects.exe
+C:\Users\User\Desktop\C# programs\List in Objects\bin\Debug\net8.0\List in Objects.deps.json
+C:\Users\User\Desktop\C# programs\List in Objects\bin\Debug\net8.0\List in Objects.runtimeconfig.json
+C:\Users\User\Desktop\C# programs\List in Objects\bin\Debug\net8.0\List in Objects.dll
+C:\Users\User\Desktop\C# programs\List in Objects\bin\Debug\net8.0\List in Objects.pdb
+C:\Users\User\Desktop\C# programs\List in Objects\obj\Debug\net8.0\List in Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# programs\List in Objects\obj\Debug\net8.0\List in Objects.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# programs\List in Objects\obj\Debug\net8.0\List in Objects.AssemblyInfo.cs
+C:\Users\User\Desktop\C# programs\List in Objects\obj\Debug\net8.0\List in Objects.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# programs\List in Objects\obj\Debug\net8.0\List in Objects.dll
+C:\Users\User\Desktop\C# programs\List in Objects\obj\Debug\net8.0\refint\List in Objects.dll
+C:\Users\User\Desktop\C# programs\List in Objects\obj\Debug\net8.0\List in Objects.pdb
+C:\Users\User\Desktop\C# programs\List in Objects\obj\Debug\net8.0\List in Objects.genruntimeconfig.cache
+C:\Users\User\Desktop\C# programs\List in Objects\obj\Debug\net8.0\ref\List in Objects.dll
